@@ -1,0 +1,6 @@
+Metric,Value
+Total Rows,51575
+Unique Users,"['Person4', 'Person3', 'Person1', 'Person2']
+Categories (4, object): ['Person1', 'Person2', 'Person3', 'Person4']"
+Duplicate Rows,48787
+Duplicate Percentage,94.59%
