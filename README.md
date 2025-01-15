@@ -31,18 +31,28 @@ This project analyzes WhatsApp chat data to provide insights into messaging patt
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/whatsapp-chat-analysis.git
-
 2. Navigate to the project directory:
-cd whatsapp-chat-analysis
+   ```bash
+   Insert Code
+   Run
+   Copy code
+   cd whatsapp-chat-analysis
 3. Install the required dependencies:
-pip install -r requirements.txt
+   ```bash
+   Insert Code
+   Run
+   Copy code
+   pip install -r requirements.txt
 # Usage
-## Run the Streamlit app:
-streamlit run chat_analysis.py
+Run the Streamlit app:
+   ```bash
+   Insert Code
+   Run
+   Copy code
+   streamlit run chat_analysis.py
+   
 # Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you would like to add.
 
-# License
+License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-This updated README provides a comprehensive overview of the project, its goals, features, limitations, installation instructions, and contribution guidelines.
