@@ -37,8 +37,8 @@ This project analyzes WhatsApp chat data to provide insights into messaging patt
 3. Install the required dependencies:
    ```bash
       pip install -r requirements.txt
-# Usage
-Run the Streamlit app:
+
+4. Run the Streamlit app:
    ```bash
    streamlit run chat_analysis.py
 
